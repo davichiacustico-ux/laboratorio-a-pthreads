@@ -1,0 +1,11 @@
+Thu Oct 29 07:11:44 -05 2026
+Linux 6.18.54.1-microsoft-standard-WSL2
+CPU(s):                                  12
+Model name:                              Intel(R) Core(TM) i5-10400 CPU @ 2.90GHz
+Thread(s) per core:                      2
+Core(s) per socket:                      6
+Socket(s):                               1
+               total        used        free      shared  buff/cache   available
+Mem:            11Gi       768Mi       9.7Gi       4.1Mi       1.3Gi        10Gi
+Swap:          3.0Gi          0B       3.0Gi
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0

@@ -1,0 +1,11 @@
+Thu Oct 22 10:18:43 -05 2026
+CPU(s):                                  24
+Model name:                              Intel(R) Core(TM) Ultra 9 285
+Thread(s) per core:                      1
+Core(s) per socket:                      24
+Socket(s):                               1
+CPU(s) scaling MHz:                      58%
+               total        used        free      shared  buff/cache   available
+Mem:            30Gi       7.1Gi        14Gi       1.1Gi       9.9Gi        23Gi
+Swap:           18Gi          0B        18Gi
+gcc (Ubuntu 13.3.0-6ubuntu2~24.04.1) 13.3.0
